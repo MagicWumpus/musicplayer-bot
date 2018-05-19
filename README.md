@@ -1,2 +1,2 @@
-# super-super-heroku-bot
-Bot using heroku, 24/7!
+# Music Player Bot
+The bot API for "Music Player" Bot!
